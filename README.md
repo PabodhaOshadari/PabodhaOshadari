@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pabodha Oshadari</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Robotic Programming using Python, ROS (Robot Operating System), and simulation tools like Gazebo. I'm focusing on topics like path planning, sensor integration, and autonomous navigation for intelligent robots.**
+- 🌱 I’m currently learning **Machine Learning and Robotic Programming using Python, ROS (Robot Operating System), and simulation tools like Gazebo.**
 
 - 👯 I’m looking to collaborate on **AI-based Astronomy Systems**
 
